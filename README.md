@@ -1,5 +1,4 @@
-# Password Manager
-- Password Management System in AWS
+# Password Management System in AWS
 - Created Passbolt, a self-hosted password manager, to securely store and manage complex passwords.
 - Utilized AWS clous services to host Passbolt, ensuring scalability, availability, and reliability.
 - Implemented HTTPS encryption to safeguard sensitive data transmitted to and from the password manager.
